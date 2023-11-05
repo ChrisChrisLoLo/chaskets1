@@ -23,7 +23,7 @@ The gaskets have a notch to align both the keycap and the switch stem, and have 
 
 I found that the TPU is bouncy enough to reduce a majority of the downstroke noise while being stiff enough so as not to make the typing experience feel mushy.
 
-Both source SCAD files and STL files can be found in the repo. Using a 0.12mm nozzle width (or finer) is recommended.
+Both source SCAD files and STL files can be found in the repo. Using a 0.12mm nozzle width (or finer) is recommended. My tpu had a shore hardness of 95A, though i suspect any TPU hardnrss will suffice.
 
 These fit snuggly within CFX switches.
 
